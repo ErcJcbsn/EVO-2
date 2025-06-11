@@ -1,0 +1,8 @@
+In dieser Datei werden Infos zu Änderungen durch Autoren festgehalten.
+(Rik würde maybe sagen."Das unnötig", aber ich finde es übersichtlich.)
+
+Der komlette Code wurde von Ole geschrieben.
+Format:
+Data - Name: Description 
+10.06.2025 - Eric: Ein for-loop in main.py line 758 wurde angepasst.
+11.06.2025 - Eric: Erstellung von git-repo -> Wunsch: dieses Repo soll auf den Azubi git-Account.
