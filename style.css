@@ -1,0 +1,128 @@
+QLabel#body {
+    background-color: rgb(230, 230, 230);
+}
+
+QLabel#banner {
+    background-color: rgb(230, 230, 230);
+}
+
+QPushButton#switch_step_btn:hover {
+    background-color: rgb(20, 20, 250);
+}
+
+QLabel#bar_back {
+    background-color: rgba(0, 0, 200, 0.2);
+    border-radius: 5px;
+}
+
+QLabel#bar_actual {
+    background-color: rgba(0, 0, 200, 0.4);
+    border-radius: 5px;
+}
+
+QPushButton#import_btn {
+    background-color: rgba(0, 0, 200, 0.1);
+    border-radius: 16px;
+    font-size: 24px;
+    font-weight: bold;
+    color: rgba(40, 40, 230, 0.6);
+    text-align: center;
+}
+
+QPushButton#import_btn:hover {
+    background-color: rgba(0, 0, 200, 0.2);
+}
+
+QTableWidget {
+    border-radius: 16px;
+}
+
+QHeaderView {
+    background-color: rgba(0, 0, 200, 0.1);
+}
+
+QTableCornerButton::section {
+    background-color: rgba(0, 0, 200, 0.1);
+    border-top-left-radius: 10px;
+}
+
+QLabel#rec_name {
+    background-color: rgba(0, 0, 200, 0.1);
+    padding-left: 10px;
+    border-left: 1px solid rgb(40, 40, 250);
+    border-top: 1px solid rgb(40, 40, 250);
+    border-bottom: 1px solid rgb(40, 40, 250);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    color: rgba(0, 0, 200, 0.5);
+}
+
+QLineEdit#rec_entry {
+    border: 1px solid rgb(40, 40, 250);
+    border-radius: 0px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+QListWidget {
+    background: transparent;
+    border: none;
+}
+
+QLabel#step_name {
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(0, 0, 200, 0.7);
+}
+
+QLabel#sub_heading {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+QLabel#folder_name {
+    font-size: 14px;
+}
+
+QPushButton {
+    background-color: rgba(0, 0, 200, 0.1);
+    border: none;
+    border-radius: 8px;
+}
+
+QPushButton:hover {
+    background-color: rgba(0, 0, 200, 0.2);
+}
+
+QLabel#needed {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+QLabel {
+    color: rgba(0, 0, 200, 0.7);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+QComboBox#inter_drop {
+    border: 1px solid rgb(40, 40, 250);
+    border-radius: 4px;
+    padding: 5px;
+    min-height: 25px;
+    font-size: 14px;
+}
+
+QLineEdit {
+    border: 1px solid rgb(40, 40, 250);
+    border-radius: 4px;
+    padding: 5px;
+    min-height: 25px;
+    font-size: 14px;
+}
+
+QListWidget::item:hover {
+    background: transparent;
+}
